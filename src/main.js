@@ -5,4 +5,6 @@ const app = new App({
   target: document.getElementById('app')
 })
 
+console.log(app);
+
 export default app
