@@ -11,7 +11,7 @@
 <main id="main-bg" class="flex flex-col w-screen h-screen font-roboto bg-cream text-black">
 
   <div class="m-6">
-    <img src="src/assets/logo-yb.png" alt="yb-logo" width="100">
+    <img src="./src/assets/logo-yb.png" alt="yb-logo" width="100">
   </div>
 
   <div class="flex justify-center items-center w-screen my-24">
